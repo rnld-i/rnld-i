@@ -41,18 +41,14 @@ I'm a passionate **Fullstack Developer** with a love for building clean, efficie
 
 ---
 
-## 📊 GitHub Statistics
+## 🎨 ASCII Art
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</div>
-
-### Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+     _       _        _                    _   
+  __| | ___ | |_ _ __(_)_ __   __ _    ___| |_ 
+ / _` |/ _ \| __| '__| | '_ \ / _` |  / _ \ __|
+| (_| | (_) | |_| |  | | | | | (_| | |  __/ |_ 
+ \__,_|\___/ \__|_|  |_|_| |_|\__, |  \___|\__|
+                              |___/             
 
 ---
 
