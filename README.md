@@ -43,12 +43,14 @@ I'm a passionate **Fullstack Developer** with a love for building clean, efficie
 
 ## 🎨 ASCII Art
 
+```plaintext
      _       _        _                    _   
   __| | ___ | |_ _ __(_)_ __   __ _    ___| |_ 
  / _` |/ _ \| __| '__| | '_ \ / _` |  / _ \ __|
 | (_| | (_) | |_| |  | | | | | (_| | |  __/ |_ 
  \__,_|\___/ \__|_|  |_|_| |_|\__, |  \___|\__|
                               |___/             
+```
 
 ---
 
